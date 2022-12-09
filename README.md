@@ -68,9 +68,10 @@ Finally we can see the Actual Classification vs the Predicted Classification for
 
 
 # 📸 Screenshots from the App:
-Welcome Page________________________Main Screen_____________Inside Grape Model_________Select Image Source___________Prediction
+
 ![image](https://user-images.githubusercontent.com/95702726/206668292-4fe07cea-9323-46af-8dc4-627d6f0a64af.png)
 
+Welcome Page --> Main Page --> Grape Model --> Selection of image source --> Prediction
 
 
 # Thank You!!
